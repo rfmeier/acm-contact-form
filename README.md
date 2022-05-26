@@ -4,9 +4,9 @@
 
 An example plugin using the Atlas Content Modeler crud api to collect data on the front-end from a contact form and store the data as an entry model.
 
-This will also use the crud api validation to enfore the correct data.
-
 **Do not use this as your contact form. As it provides no spam protection.**
+
+This plugin is the result of a hack-a-thon project in order to see the Atlas Content Modeler CRUP API in action.
 
 ## Getting Started
 1. Install and activate the [Atlas Content Modeler](https://wordpress.org/plugins/atlas-content-modeler/) plugin.
