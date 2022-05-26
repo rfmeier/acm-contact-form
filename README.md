@@ -1,5 +1,7 @@
 # ACM Contact Form WordPress Plugin
 
+[![Continuous Integration](https://github.com/rfmeier/acm-contact-form/actions/workflows/main.yml/badge.svg)](https://github.com/rfmeier/acm-contact-form/actions/workflows/main.yml)
+
 An example plugin using the Atlas Content Modeler crud api to collect data on the front-end from a contact form and store the data as an entry model.
 
 This will also use the crud api validation to enfore the correct data.
