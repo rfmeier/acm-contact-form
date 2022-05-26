@@ -10,9 +10,11 @@ This will also use the crud api validation to enfore the correct data.
 
 ## Getting Started
 1. Install and activate the [Atlas Content Modeler](https://wordpress.org/plugins/atlas-content-modeler/) plugin.
-2. Create a `Contact` model with the following fields.
+2. [Download](https://github.com/rfmeier/acm-contact-form/releases) the latest release of ACM Contact Form.
+3. Install and activate the ACM Contact Form plugin.
+4. Create a `Contact` model with the following fields.
   - Name (`name` slug) as required text field.
   - E-Mail (`email` slug) as required email field.
   - Comment (`comment` slug) as required multi-line text field.
-3. Install and activate the ACM Contact Form plugin.
-4. Add the `[acm_contact_form]` shortcode to a published page.
+5. Install and activate the ACM Contact Form plugin.
+6. Add the `[acm_contact_form]` shortcode to a published page.
