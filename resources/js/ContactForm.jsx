@@ -42,7 +42,7 @@ export default function ContactForm() {
 		setBusy(true);
 		setErrors({});
 
-		fetch('http://localhost:8888/wp-json/acm/contacts', {
+		fetch('/wp-json/acm/contacts', {
 			method: 'POST',
 			headers: {
 				'Content-Type': 'application/json',
