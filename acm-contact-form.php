@@ -7,7 +7,7 @@
  * Author URI: https://rfmeier.net/
  * Text Domain: acm-contact-form
  * Domain Path: /languages
- * Version: 0.1.0
+ * Version: 0.1.1
  * Requires at least: 5.9
  * Requires PHP: 7.3
  * License: GPLv2 or later
@@ -20,7 +20,7 @@ if ( ! defined( 'ABSPATH' ) ) {
 	exit;
 }
 
-define( 'ACM_CONTACT_FORM_VERSION', '0.1.0' );
+define( 'ACM_CONTACT_FORM_VERSION', '0.1.1' );
 define( 'ACM_CONTACT_FORM_FILE', __FILE__ );
 define( 'ACM_CONTACT_FORM_DIR', dirname( ACM_CONTACT_FORM_FILE ) );
 
